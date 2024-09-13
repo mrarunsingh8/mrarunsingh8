@@ -44,3 +44,7 @@ I'm a **Software Development Engineer (SDE)** with a passion for building robust
     <img width=60% src="https://leetcode.card.workers.dev/?username=mrarunsingh8&theme=dark&extension=activity&border_radius=10"/>
   </a>
 </p>
+
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+[![GitHub Star - Arun Kumar](https://img.shields.io/badge/GitHub_Star-%E2%AD%90_mrarunsingh8-E89B25?colorA=302237&logo=github)](https://stars.github.com/profiles/mrarunsingh8/) 
