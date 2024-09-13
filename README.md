@@ -48,3 +48,18 @@ I'm a **Software Development Engineer (SDE)** with a passion for building robust
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 [![GitHub Star - Arun Kumar](https://img.shields.io/badge/GitHub_Star-%E2%AD%90_mrarunsingh8-E89B25?colorA=302237&logo=github)](https://stars.github.com/profiles/mrarunsingh8/) 
+
+
+
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+### :zap: Most used languages ❤️
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+<p align="center">&nbsp;<img width="500" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=mrarunsingh8&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img width="500" src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrarunsingh8&theme=dracula" alt=""><br>
+    <img width="500" src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrarunsingh8&theme=dracula">
+    <img width="500" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrarunsingh8&theme=radical&utcOffset=5"> 
+</a>
+</p>
