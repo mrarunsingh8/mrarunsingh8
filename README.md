@@ -33,3 +33,14 @@ I'm a **Software Development Engineer (SDE)** with a passion for building robust
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/arunkumarsde/)
 - [Email](mailto:mrsrunsingh8@gmail.com)
+
+
+<!-- LeetCode Stats Card ❤️ -->
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+<h2 align="center"><img src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
+<p align="center">
+  <a href="https://leetcode.com/mrarunsingh8" target="_blank">
+    <img width=60% src="https://leetcode.card.workers.dev/?username=mrarunsingh8&theme=dark&extension=activity&border_radius=10"/>
+  </a>
+</p>
